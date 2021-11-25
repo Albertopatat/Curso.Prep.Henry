@@ -1,0 +1,20 @@
+
+Variables:
+
+La variables son espacios de la memoria designados por un nombre que le damos que pueden contener diversos tipos de datos.
+
+Strings:
+
+Las string son cadenas de caracteres, pudiendo ser palabras, nombres, frases, y todo tipo de dato que cuente con una secuencia de caracteres. Incluyen letras, números, símbolos y espacios.
+
+Funciones (argumentos, return):
+
+Las funciones son partes de código que cumplen una función determinada, pueden recibir argumentos con los cuales operar o no, para devolver el resultado de estas operaciones se utiliza la palabra clave return.
+
+Declaraciones if:
+
+Cuando un algorítmo necesita tomar diferentes caminos dependiendo del ingreso del usuario, contamos con las declaraciones condicionales. Estas nos permiten definir en el código que camino tomará nuestro programa en tiempo de ejecución según lo que resulte de su verificación.
+
+Valores booleanos (true, false):
+
+Los valores booleanos son los más básicos pero a la vez útiles, y por ejemplo en el caso de la declaración if, definirán el camino a tomar a través de un verdadero o falso. 
